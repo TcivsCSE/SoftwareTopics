@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "b62ae30c20e4d64e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8de773aca7332e46",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "演算法（1）褐澄祥撞樹.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85ed5c82b4451c6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1735e004aa74c1c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7b3eb512123a4ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "657c47d00392e00a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52e8edeecad2a113",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8500945f305de41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90c444b9f725b6c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "演算法（1）褐澄祥撞樹.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8de773aca7332e46",
+  "lastOpenFiles": [
+    "演算法（1）褐澄祥撞樹.md",
+    "雜種題（3）陳泳綦的ㄐㄐ框架.md",
+    "ReadMe.md",
+    "雜種題（2）吳盛瑋的系統超難用.md",
+    "雜種題（1）林維信寫程式超多bug.md",
+    "演算法（3）熊貓的成績登記系統.md",
+    "演算法（2）芮琪的poker night.md",
+    "Untitled.md",
+    "雜種題（1）底霸葛.md",
+    "雜種題（2）ystem Design Tutorial.md"
+  ]
+}
