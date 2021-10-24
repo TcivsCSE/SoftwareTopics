@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "演算法（1）褐澄祥撞樹.md",
+            "file": "演算法（3）熊貓的成績登記系統.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "演算法（1）褐澄祥撞樹.md",
+                "file": "演算法（3）熊貓的成績登記系統.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "8de773aca7332e46",
   "lastOpenFiles": [
-    "演算法（1）褐澄祥撞樹.md",
     "演算法（3）熊貓的成績登記系統.md",
+    "演算法（1）褐澄祥撞樹.md",
     "雜種題（1）林維信寫程式超多bug.md",
     "雜種題（3）陳泳綦的ㄐㄐ框架.md",
     "雜種題（2）吳盛瑋的系統超難用.md",
