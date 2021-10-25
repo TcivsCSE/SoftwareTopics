@@ -38,7 +38,9 @@
 
 
 請根據以下這張表格
+
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBzuHHIPEm1J7OmR4C1779oJ6ruUEXUddADoSc-OJ0zJwbw__jGdhtH1Wv2Z4GK2rlgy0&usqp=CAU)
+
 輸出此五張牌中最大的組合之`英文名字`
 
 大小依序為:
