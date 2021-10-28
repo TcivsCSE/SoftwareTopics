@@ -64,8 +64,8 @@ Three of a Kind
 
 ## 檔案儲存方式
 
-請將此程式檔存為 A02.cpp 
+請將此程式檔存為 a02.cpp 
 
-執行檔存為 A02.exe
+執行檔存為 a02.exe
 
 放置於`/21-IT-Design/part-A/2/ans/`中
