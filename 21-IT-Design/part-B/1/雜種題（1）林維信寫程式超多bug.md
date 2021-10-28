@@ -58,5 +58,5 @@
 
 整份放置於`/21-IT-Design/part-B/1/ans/`中
 
-並加入一份 `BUGSOLVING.txt` 來說明你所修復的Bug
+並加入一份 `hotfix.txt` 來說明你所修復的Bug
 
