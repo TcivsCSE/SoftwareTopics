@@ -30,6 +30,7 @@
 
 其中 梅花、菱形、紅心、黑桃 分別以  W、X、Y、Z  所代表
 
+範例輸入:
 ```
 2
 10Z JZ QZ KZ AZ
@@ -55,8 +56,16 @@
 9. 一對 (One Pair)
 10. 高牌 (High Card)
 
-
+範例輸出:
 ```
 Royal Flush
 Three of a Kind
 ```
+
+## 檔案儲存方式
+
+請將此程式檔存為 A02.cpp 
+
+執行檔存為 A02.exe
+
+放置於`/21-IT-Design/part-A/2/ans/`中

@@ -160,6 +160,13 @@ Score Add Successful
 
 ```
 
+## 檔案儲存方式
+
+請將此程式檔存為 A03.cpp 
+
+執行檔存為 A03.exe
+
+放置於`/21-IT-Design/part-A/3/ans/`中
 
 
 
